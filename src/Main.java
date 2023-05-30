@@ -24,7 +24,7 @@ public class Main {
         Pelicula Luca = new Pelicula("Luca","Dibujo animado", 2, 2021, "Enrico Casarosa");
         Pelicula Cars = new Pelicula("Cars", "Infantil", 2, 2006, "John Lasseter");
         Pelicula Soul = new Pelicula("Soul", "Comedia", 2, 2020, "Pete Docter");
-        Pelicula Avengers_Endgame = new Pelicula("Avengers Endgame", "Acción", 3, 2019, "Anthony Russo, Joe Russo")
+        Pelicula Avengers_Endgame = new Pelicula("Avengers Endgame", "Acción", 3, 2019, "Anthony Russo, Joe Russo");
 
         System.out.println("\t\t *** Eduardo Almachi *** \n");
         System.out.println("===== PELICULA 1 =====");
