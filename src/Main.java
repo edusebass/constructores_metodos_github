@@ -14,6 +14,5 @@ public class Main {
         //Instancias Gilmar
         Pelicula  La_La_Land =new Pelicula("La La Land", "Musical, Romance, Drama",2 , 2016,
                 "Damien Chazelle");
-
     }
 }
