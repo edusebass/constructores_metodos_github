@@ -14,6 +14,11 @@ public class Main {
         //Instancias Gilmar
         Pelicula  La_La_Land =new Pelicula("La La Land", "Musical, Romance, Drama",2 , 2016,
                 "Damien Chazelle");
-
+        Pelicula  El_Padrino =new Pelicula("El Padrino", "Drama, Crimen",2 , 1972,
+                "Francis Ford Coppola");
+        Pelicula El_Caballero_de_la_Noche =new Pelicula("El Caballero de la Noche", "Acción, Crimen, Drama",2 , 2008,
+                "Christopher Nolan");
+        Pelicula El_Señor_de_los_Anillos =new Pelicula("El Señor de los Anillos: El retorno del Rey", "Aventura, Fantasía, Acción",3 , 2003,
+                "Peter Jackson");
     }
 }
