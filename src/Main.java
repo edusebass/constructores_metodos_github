@@ -20,6 +20,40 @@ public class Main {
                 "Christopher Nolan");
         Pelicula El_Señor_de_los_Anillos =new Pelicula("El Señor de los Anillos: El retorno del Rey", "Aventura, Fantasía, Acción",3 , 2003,
                 "Peter Jackson");
+        //Instancias Paul Hidalgo
+        Pelicula Luca = new Pelicula("Luca","Dibujo animado", 2, 2021, "Enrico Casarosa");
+        Pelicula Cars = new Pelicula("Cars", "Infantil", 2, 2006, "John Lasseter");
+        Pelicula Soul = new Pelicula("Soul", "Comedia", 2, 2020, "Pete Docter");
+        Pelicula Avengers_Endgame = new Pelicula("Avengers Endgame", "Acción", 3, 2019, "Anthony Russo, Joe Russo")
 
+        System.out.println("\t\t *** Eduardo Almachi *** \n");
+        System.out.println("===== PELICULA 1 =====");
+        Terminator.imprimirDatos();
+        System.out.println("===== PELICULA 2 =====");
+        Titanic.imprimirDatos();
+        System.out.println("===== PELICULA 3 =====");
+        ShuterIsland.imprimirDatos();
+        System.out.println("===== PELICULA 4 =====");
+        Interestellar.imprimirDatos();
+
+        System.out.println("\t\t *** Gilmar Morales *** \n");
+        System.out.println("===== PELICULA 1 =====");
+        La_La_Land.imprimirDatos();
+        System.out.println("===== PELICULA 2 =====");
+        El_Padrino.imprimirDatos();
+        System.out.println("===== PELICULA 3 =====");
+        El_Caballero_de_la_Noche.imprimirDatos();
+        System.out.println("===== PELICULA 4 =====");
+        El_Señor_de_los_Anillos.imprimirDatos();
+
+        System.out.println("\t\t *** Paul Hidalgo *** \n");
+        System.out.println("===== PELICULA 1 =====");
+        Luca.imprimirDatos();
+        System.out.println("===== PELICULA 2 =====");
+        Cars.imprimirDatos();
+        System.out.println("===== PELICULA 3 =====");
+        Soul.imprimirDatos();
+        System.out.println("===== PELICULA 4 =====");
+        Avengers_Endgame.imprimirDatos();
     }
 }
