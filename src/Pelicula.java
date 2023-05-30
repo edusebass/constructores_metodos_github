@@ -56,4 +56,13 @@ public class Pelicula {
     public void setDirector(String director) {
         this.director = director;
     }
+
+    public void imprimirDatos(){
+        //hola a todos
+        System.out.println(this.titulo);
+        System.out.println(this.genero);
+        System.out.println(this.duracion);
+        System.out.println(this.anioLanzamiento);
+        System.out.println(this.director);
+    }
 }

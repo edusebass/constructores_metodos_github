@@ -11,5 +11,7 @@ public class Main {
                 "Martin Scoserse");
         Pelicula Interestellar = new Pelicula("Interestelar", "accion", 2, 2014,
                 "Christoper Nolan");
+
+        Terminator.imprimirDatos();
     }
 }
