@@ -26,7 +26,7 @@ public class Main {
         Pelicula Soul = new Pelicula("Soul", "Comedia", 2, 2020, "Pete Docter");
         Pelicula Avengers_Endgame = new Pelicula("Avengers Endgame", "Acción", 3, 2019, "Anthony Russo, Joe Russo");
 
-        System.out.println("\t\t *** Eduardo Almachi *** \n");
+        System.out.println("\n\t\t *** Eduardo Almachi *** \n");
         System.out.println("===== PELICULA 1 =====");
         Terminator.imprimirDatos();
         System.out.println("===== PELICULA 2 =====");
@@ -36,7 +36,7 @@ public class Main {
         System.out.println("===== PELICULA 4 =====");
         Interestellar.imprimirDatos();
 
-        System.out.println("\t\t *** Gilmar Morales *** \n");
+        System.out.println("\n\t\t *** Gilmar Morales *** \n");
         System.out.println("===== PELICULA 1 =====");
         La_La_Land.imprimirDatos();
         System.out.println("===== PELICULA 2 =====");
@@ -46,7 +46,7 @@ public class Main {
         System.out.println("===== PELICULA 4 =====");
         El_Señor_de_los_Anillos.imprimirDatos();
 
-        System.out.println("\t\t *** Paul Hidalgo *** \n");
+        System.out.println("\n\t\t *** Paul Hidalgo *** \n");
         System.out.println("===== PELICULA 1 =====");
         Luca.imprimirDatos();
         System.out.println("===== PELICULA 2 =====");
